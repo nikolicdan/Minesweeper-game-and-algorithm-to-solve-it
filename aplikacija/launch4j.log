@@ -1,0 +1,30 @@
+
+
+Version:	3.12
+CmdLine:	E:\java\Minesweeper\aplikacija\minesweeper.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\java\Minesweeper\aplikacija\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_301\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_301
+Check launcher:	C:\Program Files\Java\jre1.8.0_301\bin\javaw.exe (OK)
+Match:		1.008.000_301
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_281
+Ignore:		1.008.000_281
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.1
+Check launcher:	C:\Program Files\Java\jdk-14.0.1\bin\javaw.exe (OK)
+Match:		1.014.000_001
+Runtime used:	1.014.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.1\bin\javaw.exe
+Launcher args:	-jar "E:\java\Minesweeper\aplikacija\minesweeper.exe"
+Args length:	53/32768 chars
+Exit code:	0
